@@ -15,7 +15,7 @@ color:
 # Team names, titles and social links
 people:
 - name: Andrew Yip
-  pic: 1
+  pic: andrew
   position: Data Painter
   social:
     - title: github
