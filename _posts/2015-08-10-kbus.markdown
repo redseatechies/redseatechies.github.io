@@ -1,0 +1,15 @@
+---
+title: KBus
+subtitle: The Community Trip Planner
+layout: default
+modal-id: 1
+date: 2015-08-10
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: est. Apr 2015
+client:
+category: Web App - Transportation
+description: KBus is the real-time trip planner for community buses and water taxis.
+
+---
