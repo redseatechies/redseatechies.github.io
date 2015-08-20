@@ -10,7 +10,8 @@ alt: image-alt
 project-date: 4/2015 -
 client: Commuters, Shoppers
 category: Web App - Transportation
-link: http://bit.ly/kbustestdo
+link: http://bit.ly/kbusrst
+linktag: www.kbus.info
 description: KBus is the real-time trip planner for community buses, Jeddah transport, and water taxis.
 
 ---
