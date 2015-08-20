@@ -1,0 +1,17 @@
+---
+title: IDEO Human-Centered Design Group
+subtitle: HCD study group for community problem solving
+layout: default
+modal-id: 2
+date: 2015-08-20
+img: hcd.jpg
+thumbnail: hcd.jpg
+alt: image-alt
+project-date: 8/2015 -
+client: Change Makers
+category: Study Group - Design
+link: http://novoed.com/design-kit-q3-2015/?catalog_id=design-kit-q3-2015
+linktag: Signup Here
+description: Design Kit The Course for Human-Centered Design is a seven-week curriculum that will introduce you to the concepts of human-centered design and how this approach can be used to create innovative, effective, and sustainable solutions for social change. This course has been created to reach those who are brand new to human-centered design, so no prior experience required (though we of course welcome previous students to continue honing your human-centered design skills!)
+
+---
