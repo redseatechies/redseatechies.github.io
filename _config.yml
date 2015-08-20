@@ -8,7 +8,7 @@ description: "code for the better > together"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: ffff00
+  primary: fed136
   secondary: fec503
   secondary-dark: 333
 
