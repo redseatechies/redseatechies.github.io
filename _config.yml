@@ -15,11 +15,11 @@ color:
 # Team names, titles and social links
 people:
 - name: Andrew Yip
-  pic: andrew
+  pic: andrew_fg
   position: KBus
   social:
     - title: github
-      url: redseatechies.org
+      url: github.com/yipcma
 
 # - name: Larry Parker
 #   pic: 2

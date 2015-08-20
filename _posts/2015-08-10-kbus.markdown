@@ -4,8 +4,8 @@ subtitle: The Community Trip Planner
 layout: default
 modal-id: 1
 date: 2015-08-10
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: kbus.png
+thumbnail: kbus.png
 alt: image-alt
 project-date: 4/2015 -
 client: Commuters, Shoppers
