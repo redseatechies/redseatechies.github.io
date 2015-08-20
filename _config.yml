@@ -4,7 +4,7 @@
 # Site settings
 title: Red Sea Techies
 email: andrew.yip@kaust.edu.sa
-description: "We make lives better in the desert."
+description: "code for the better > together"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -16,10 +16,10 @@ color:
 people:
 - name: Andrew Yip
   pic: andrew
-  position: Data Painter of KBus
+  position: KBus
   social:
     - title: github
-      url: yip.redseatechies.org
+      url: redseatechies.org
 
 # - name: Larry Parker
 #   pic: 2
