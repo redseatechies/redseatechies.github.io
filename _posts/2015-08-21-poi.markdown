@@ -1,0 +1,17 @@
+---
+title: Jeddah POIs
+subtitle: Points of interest in and near Jeddah, Saudi Arabia
+layout: default
+modal-id: 1
+date: 2015-08-21
+img: poi.png
+thumbnail: poi.png
+alt: image-alt
+project-date: 5/2014 -
+client: Community members
+category: Web - Mapping
+link: http://rawgit.com/Virtakuono/.kml-repository/master/JeddahPOIs.htm
+linktag: Open Map
+description: This is a map of interesting locations in and around Jeddah, mainly aimed to be used and edited by the KAUST community, although anyone is warmly welcomed to have a sneak peek and to contribute as well.
+
+---

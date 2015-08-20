@@ -1,9 +1,9 @@
 ---
 title: KBus
-subtitle: The Community Trip Planner
+subtitle: Community trip planner
 layout: default
-modal-id: 1
-date: 2015-08-10
+modal-id: 2
+date: 2015-08-21
 img: kbus.png
 thumbnail: kbus.png
 alt: image-alt

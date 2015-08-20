@@ -1,0 +1,17 @@
+---
+title: Orientation App 2015
+subtitle: one-stop information app for new students
+layout: default
+modal-id: 3
+date: 2015-08-21
+img: oapp.png
+thumbnail: oapp.png
+alt: image-alt
+project-date: 6/2015 -
+client: New students
+category: Android App - Info
+link: https://play.google.com/store/apps/details?id=kaust.orientationapp&hl=en
+linktag: Google Play
+description: Now you can access the Orientation from your Android smartphone! The Orientation app is designed by students, and includes the following useful tools and more. Calendar of events, list of important phone contacts, interactive maps and bus schedules. Just go to the Google Play Store and search for "KAUST Orientation 2015".
+
+---
